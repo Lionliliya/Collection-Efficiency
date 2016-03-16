@@ -1,6 +1,0 @@
-              add       get          remove         contains       populate           iterator.add          iterator.remove
-============================================================================================================================
-ArrayList     get       remove       contains       populate       iterator.add       iterator.remove
-LinkedList    get       remove       contains       populate       iterator.add       iterator.remove
-HashSet       get       remove       contains       populate       iterator.add       iterator.remove
-TreeSet       get       remove       contains       populate       iterator.add       iterator.remove
