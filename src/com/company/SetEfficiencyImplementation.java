@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Set;
 
-public class SetTest implements SetEfficiencyTest {
+public class SetEfficiencyImplementation implements SetEfficiency {
 
 
     @Override

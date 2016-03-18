@@ -12,8 +12,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        SetTest setTest = new SetTest();
-        ListTest listTest = new ListTest();
+        SetEfficiencyImplementation setTest = new SetEfficiencyImplementation();
+        ListEfficiencyImplementation listTest = new ListEfficiencyImplementation();
 
         long addToArrayList10K = listTest.addToCollectionAverage(new ArrayList<>(), 100, 10_000);
         long addToArrayList100K = listTest.addToCollectionAverage(new ArrayList<>(), 100, 100_000);

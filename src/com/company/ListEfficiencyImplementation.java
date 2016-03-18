@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.*;
 
-public class ListTest implements ListEfficiencyTest {
+public class ListEfficiencyImplementation implements ListEfficiency {
 
 
     @Override

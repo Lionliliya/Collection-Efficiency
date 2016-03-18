@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.List;
 
-public interface ListEfficiencyTest {
+public interface ListEfficiency {
 
     public long addToCollection(List<CollectionElement> list, int amountOfElement);
 

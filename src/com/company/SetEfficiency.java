@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Set;
 
-public interface SetEfficiencyTest {
+public interface SetEfficiency {
 
     public long addToCollection(Set<CollectionElement> set, int amountOfElement);
 
