@@ -27,4 +27,7 @@ Set
 
 **Comparisons should be made on the scale: 10K (10,000) 1000K 100K elements.**
 
-**For each set of (10K, 100K, 1000K) EXEC least 100 measurements and calculate the mean value.**
+**For each set of (10K, 100K, 1000K) execute at least 100 measurements and calculate the average value.**
+
+**The results of measurements print to the console and saved in the file in a table view**
+
